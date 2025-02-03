@@ -6,4 +6,4 @@ this account is intended for :-
 - project organization
 - maintaining versions
 ## Guidelines
-please read contributing.md before working on any project.
+please read CONTRIBUTING.md before working on any project.
